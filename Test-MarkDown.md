@@ -1,3 +1,5 @@
-#This is the Primary Heading
-##This is the Secondary Heading
-###This is the Tertiary Heading
+## Data Science Specialization 
+
+ li Uses R 
+ li Nine courses 
+ li Goes from raw data to data products
